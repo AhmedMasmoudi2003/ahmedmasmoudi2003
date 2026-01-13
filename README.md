@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk0ZjdyNWpxMWZyb2F5cHZkY3hxN2ZicG8wZHdtZDFvd3l0eGFnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="100%" height="300px" style="object-fit: cover;">
+<img width="1783" height="221" alt="image" src="https://github.com/user-attachments/assets/12d16121-94f4-40d3-a60b-9a528fe6ce1f" />
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ahmed Masmoudi
