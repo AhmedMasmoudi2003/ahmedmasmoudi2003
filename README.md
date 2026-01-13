@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 am an AI / Software Engineer
 ----------------------------
 
-i started as a designer wanting wanting to code and build, so i learned front end, then learned backend so i can build full projects, and im currently trying to master system design, and along the way I've been following all the news on AI and researching on some interesting topics like RAG and AI Agents, currently I'm aiming on building my own AI assistant, one that is useful in my daily routine, and can really help, not just for views.
+i started as a designer wanting to code and build, so i learned front end, then learned backend so i can build full projects, and im currently trying to master system design, and along the way I've been following all the news on AI and researching on some interesting topics like RAG and AI Agents, currently I'm aiming on building my own AI assistant, one that is useful in my daily routine, and can really help, not just for views.
 
 * 🌍 I'm based in Tunisia - Sfax
 * 🖥️ See my portfolio at [ahmedmasmoudi2003.github.io/Portfolio/](http://ahmedmasmoudi2003.github.io/Portfolio/)
